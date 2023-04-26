@@ -27,17 +27,12 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [HELLO_MICROVERSE_PROJECT] <a name="hello microverse project"></a>
-
-> Describe your project in 1 or 2 sentences.
+# 📖 [HELLO_MICROVERSE_PROJECT] <a name="hello microverse project"></a
 
 **[hello_microverse_project]** is a first project of the microverse programe
 
-## 🛠 Built With <a name="built-with"></a>
+## 🛠 Built With <a name="html/css"></a>
 
-### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -51,12 +46,9 @@
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
-
 - **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+Project contains a styled header element.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
