@@ -53,10 +53,6 @@ Project contains a styled header element.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-- [Live Demo Link](https://google.com)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -104,7 +100,6 @@ Example commands:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
 👤 **Author1**
 
