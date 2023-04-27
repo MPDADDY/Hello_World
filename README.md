@@ -103,8 +103,8 @@ Example commands:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://www.linkedin.com/in/anold-mwawasi)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/anold-mwawasi)
+- GitHub: [anoldmwawasi](https://www.linkedin.com/in/anold-mwawasi)
+- LinkedIn: [anoldmwawasi](https://www.linkedin.com/in/anold-mwawasi)
 - Twitter: [@anoldmwawasi](https://github.com/MPDADDY)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
