@@ -119,9 +119,9 @@ Example commands:
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://github.com/MPDADDY)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@anoldmwawasi](https://github.com/githubhandle)
+- Twitter: [@anoldmwawasi](https://github.com/MPDADDY)
+- LinkedIn: [@anoldmwawasi](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
