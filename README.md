@@ -114,14 +114,8 @@ Example commands:
 👤 **Author1**
 
 - GitHub: [@githubhandle](https://www.linkedin.com/in/anold-mwawasi)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/anold-mwawasi)
-
-👤 **Author2**
-
-- GitHub: [@anoldmwawasi](https://github.com/githubhandle)
 - Twitter: [@anoldmwawasi](https://github.com/MPDADDY)
-- LinkedIn: [@anoldmwawasi](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
